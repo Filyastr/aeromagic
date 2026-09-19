@@ -1,0 +1,10 @@
+name = "aeromagic"
+pages_build_output_dir = "."
+compatibility_date = "2026-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+# База даних: замовлення, клієнти та товари з адмінки.
+# Створіть namespace і підставте id:  wrangler kv namespace create AEROMAGIC
+[[kv_namespaces]]
+binding = "AEROMAGIC"
+id = "ВСТАВТЕ_ID_NAMESPACE"

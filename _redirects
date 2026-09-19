@@ -1,0 +1,6 @@
+/admin /admin.html 301
+/katalog /katalog.html 301
+/catalog /katalog.html 301
+/каталог /katalog.html 301
+/.netlify/functions/crm-order /api/crm-order 308
+/.netlify/functions/wayforpay-sign /api/wayforpay-sign 308

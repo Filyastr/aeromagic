@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://aeromagic.kyiv.ua/sitemap.xml
+
+Disallow: /admin.html
+Disallow: /api/

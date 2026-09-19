@@ -1,0 +1,395 @@
+{
+  "_instrukciya": "ЯК ДОДАТИ АБО ЗМІНИТИ ТОВАР: скопіюйте будь-який блок { ... } у масиві items, вставте поруч і змініть поля. Кожен id має бути унікальним. Категорії (cat): latex-plain, latex-print, foil-figures, foil-numbers, bouquets, sets, confetti, chrome, gender, accessories. badge: \"Хіт\", \"Новинка\", \"-20%\" або \"\" (без бейджа). stock: true = в наявності, false = немає. price — ціна у гривнях, лише число. rating — впливає на сортування \"за популярністю\" (0-100). img — повне посилання на фото товару. Після редагування просто збережіть файл і оновіть сторінку.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Латексні кульки Макарун, асорті (7 шт)",
+      "price": 659,
+      "cat": "latex-plain",
+      "badge": "Хіт",
+      "rating": 99,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/lateksna-kulka-nizhnogo-koloru-makarun-asorti-185.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Латексна кулька рожева, 30 см",
+      "price": 95,
+      "cat": "latex-plain",
+      "badge": "",
+      "rating": 90,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/shar-nezhno-rozoviy-T43.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Латексна кулька фуксія (малинова), 30 см",
+      "price": 94,
+      "cat": "latex-plain",
+      "badge": "",
+      "rating": 82,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/shar-malinoviy-6J4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Латексна кулька червона, 30 см",
+      "price": 94,
+      "cat": "latex-plain",
+      "badge": "",
+      "rating": 88,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/shar-krasniy-dkC.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Латексна кулька блакитна, 30 см",
+      "price": 94,
+      "cat": "latex-plain",
+      "badge": "",
+      "rating": 85,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/shar-goluboy-U4y.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Латексна кулька синя, 30 см",
+      "price": 94,
+      "cat": "latex-plain",
+      "badge": "",
+      "rating": 80,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/shar-siniy-Mdy.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Латексна кулька мʼятна, 30 см",
+      "price": 94,
+      "cat": "latex-plain",
+      "badge": "",
+      "rating": 78,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/shar-myatniy-n5g.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Латексна кулька біла, 30 см",
+      "price": 94,
+      "cat": "latex-plain",
+      "badge": "",
+      "rating": 84,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/shar-beliy-83L.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Латексна кулька чорна, 30 см",
+      "price": 94,
+      "cat": "latex-plain",
+      "badge": "",
+      "rating": 76,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/shar-cherniy-cP5.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Латексна кулька золото металік, 30 см",
+      "price": 95,
+      "cat": "chrome",
+      "badge": "",
+      "rating": 89,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/lateksna-kulka-zoloto-metallik-w5w.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Латексна кулька срібло металік, 30 см",
+      "price": 95,
+      "cat": "chrome",
+      "badge": "",
+      "rating": 87,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/images/pages/item/lateksna-kulka-sriblo-metallik-yc6.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Набір кульок Хром, 10 шт",
+      "price": 485,
+      "cat": "chrome",
+      "badge": "Хіт",
+      "rating": 95,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/nabir-kulok-hrom-10-sht.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Латексні кульки з написами та малюнками",
+      "price": 129,
+      "cat": "latex-print",
+      "badge": "",
+      "rating": 83,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-z-napisami.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Кульки з бантиками, набір 15 шт",
+      "price": 729,
+      "cat": "latex-print",
+      "badge": "Новинка",
+      "rating": 92,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-z-bantikami.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ваш індивідуальний напис на кульці",
+      "price": 97,
+      "cat": "latex-print",
+      "badge": "",
+      "rating": 86,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-z-individualnimi-napisami.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Фольгована цифра з гелієм, 86 см (будь-яка)",
+      "price": 429,
+      "cat": "foil-numbers",
+      "badge": "Хіт",
+      "rating": 97,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/70.jpg_q50.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Фольговане серце / зірка з гелієм, 45 см",
+      "price": 215,
+      "cat": "foil-figures",
+      "badge": "",
+      "rating": 91,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-sercya-na-zirku.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Фольговані кульки з написами та малюнками",
+      "price": 229,
+      "cat": "foil-figures",
+      "badge": "",
+      "rating": 85,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/folgovani-kulki-z-napisami.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Фігури та квіти з кульок (на замовлення)",
+      "price": 1290,
+      "cat": "foil-figures",
+      "badge": "",
+      "rating": 88,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/maxresdefault.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Ходячі кульки-фігури з гелієм",
+      "price": 595,
+      "cat": "foil-figures",
+      "badge": "",
+      "rating": 90,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/khodyachiye_shary.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Букет з фольгованих кульок",
+      "price": 669,
+      "cat": "bouquets",
+      "badge": "",
+      "rating": 93,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/buket-z-povitryanuh-kulyok.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Фонтан із 10 гелієвих кульок «З Днем народження»",
+      "price": 589,
+      "cat": "sets",
+      "badge": "Хіт",
+      "rating": 98,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/195114748.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Набір кульок для чоловіків",
+      "price": 745,
+      "cat": "sets",
+      "badge": "",
+      "rating": 89,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/22222.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Набір кульок для дітей «Мінні Маус»",
+      "price": 809,
+      "cat": "sets",
+      "badge": "",
+      "rating": 94,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/minni-maus-750x750-product_thumb.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Кульки на дівич-вечір",
+      "price": 745,
+      "cat": "sets",
+      "badge": "",
+      "rating": 87,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-na-devichnik.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Готова піньята з наповненням",
+      "price": 959,
+      "cat": "sets",
+      "badge": "Новинка",
+      "rating": 90,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/pinyata-v-kyiivi.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Фотозона з куль «під ключ» (монтаж/демонтаж)",
+      "price": 3780,
+      "cat": "sets",
+      "badge": "",
+      "rating": 96,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/fotozona-z-kulyok.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Набір «Гендер-паті»: 25 кульок + банер",
+      "price": 1389,
+      "cat": "gender",
+      "badge": "Новинка",
+      "rating": 95,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kompoziciya-sharov-na-gender-pati-malchik-ili-devochka-500x500.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Прозорі кульки з конфеті, 30 см",
+      "price": 157,
+      "cat": "confetti",
+      "badge": "",
+      "rating": 84,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-lateksni-riznokolorovi.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Кулька Bobo зі світлодіодом на паличці",
+      "price": 195,
+      "cat": "accessories",
+      "badge": "Новинка",
+      "rating": 88,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-lateksni-riznokolorovi.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Наповнити гелієм латексну кульку (від 30 см)",
+      "price": 75,
+      "cat": "accessories",
+      "badge": "",
+      "rating": 82,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/heliy.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Наповнити гелієм фольговану кульку (від 45 см)",
+      "price": 162,
+      "cat": "accessories",
+      "badge": "",
+      "rating": 80,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/heliy.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Аксесуари для кульок (стрічки, вантажики)",
+      "price": 65,
+      "cat": "accessories",
+      "badge": "",
+      "rating": 72,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/aksessuari.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Гелієві кульки, що світяться (для запуску у небо)",
+      "price": 259,
+      "cat": "confetti",
+      "badge": "Новинка",
+      "rating": 91,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-lateksni-riznokolorovi.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Букет з фольгованих кульок «Ляльки LOL»",
+      "price": 839,
+      "cat": "bouquets",
+      "badge": "",
+      "rating": 92,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/minni-maus-750x750-product_thumb.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Арка з повітряних кульок (оформлення)",
+      "price": 2590,
+      "cat": "sets",
+      "badge": "",
+      "rating": 93,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/fotozona-z-kulyok.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Фольгована літера з гелієм, 40 см",
+      "price": 279,
+      "cat": "foil-numbers",
+      "badge": "",
+      "rating": 86,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/70.jpg_q50.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Набір «Виписка з пологового»",
+      "price": 1069,
+      "cat": "sets",
+      "badge": "Хіт",
+      "rating": 94,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/kulki-lateksni-riznokolorovi.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Обробка кульки Hi-Float (політ 3–7 діб)",
+      "price": 27,
+      "cat": "accessories",
+      "badge": "",
+      "rating": 85,
+      "stock": true,
+      "img": "https://aeromagic.ks.ua/files/Image/firs_page/heliy.jpg"
+    }
+  ]
+}
